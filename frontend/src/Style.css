@@ -132,7 +132,8 @@ h1 {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* Editing mode */
+/* /this change is doen by ankit */
+
 .task-editing {
   display: flex;
   gap: 8px;
